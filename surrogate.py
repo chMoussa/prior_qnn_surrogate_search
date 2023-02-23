@@ -1,5 +1,6 @@
 import ConfigSpace
 import numpy as np
+import logging
 import pandas as pd
 import pyrfr.regression as reg
 import pyrfr.util
