@@ -7,3 +7,7 @@ This code regenerates the results obtained in the paper [Hyperparameter Importan
 
 Run notebook [verification-experiment-fanova-surrogate.ipynb](https://github.com/chMoussa/prior_qnn_surrogate_search/blob/main/verification-experiment-fanova-surrogate.ipynb).
 
+## Prior of good hyperparameter values experiment
+
+Run notebook [prior-good-params-experiment-fanova-surrogate.ipynb](https://github.com/chMoussa/prior_qnn_surrogate_search/blob/main/prior-good-params-experiment-fanova-surrogate.ipynb).
+
